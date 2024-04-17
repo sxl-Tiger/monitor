@@ -5,6 +5,8 @@ import {
 } from "react-router-dom";
 import routes from './route';
 
+import 'mynpmtest6712cn'
+
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
